@@ -25,17 +25,19 @@ ___
 # Demo :
 1. After setting up development environment, launch the script `./run.sh` to get a prompt asking for Email Address and a list of TV Series : 
 
-![alt text]( "Input Demo")
+![alt text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/input-demo.png "Input Demo")
 
 2. The given input is stored as MYSQLdb table :
+
+![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/mysql-demo.png "MySQL Demo")
 
 3. A template, which is generated using [API](https://www.tvmaze.com/api) to fetch all required information about the TV Series, is sent in the email given Email Addresses as :
 
   + Before and after the script is run :
   
-  ![alt_text]( "Before Script Demo")
+  ![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/before-demo.png "Before Script Demo")
   
-  ![alt_text]( "Inbox Demo")
+  ![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/inbox-demo.png "Inbox Demo")
   
   + Template :
   Tv series name:
@@ -45,11 +47,11 @@ ___
     - Only year is mentioned for next season.
     - All the seasons are finished and no further details are available.
   
-  ![alt_text]( "Template Demo")
+  ![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/template-demo.png "Template Demo")
   
   + For Shows with exact date mentioned for next episode, there appears a link, using which the user can schedule the episode airing to their Google Calendar (with exact airing date and time, considering time zones).
   
-  ![alt_text]( "Calendar Demo")
+  ![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/calendar-demo.png "Calendar Demo")
 
 ____
 ## Assumptions :
