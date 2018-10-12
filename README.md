@@ -54,12 +54,15 @@ ____
 2. For demo, use any of the following dummy email id's created for this project :
 
 >ID : nospoilers.demo@gmail.com
+
 >PASS : N0sp0ilers
 
 >ID : nospoilers.demo1@gmail.com
+
 >PASS : N0sp0ilers
 
 >ID : nospoilers.demo2@gmail.com
+
 >PASS : N0sp0ilers
 
 This is because Google recommend turning access OFF for unrecognised apps, OR, if you wish to use some other gmail ID, go to this [link](https://myaccount.google.com/lesssecureapps) and turn "Allow less secure apps:" ON.
