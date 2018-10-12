@@ -1,8 +1,8 @@
 No Spoilers !
 =============
 
-A python script to save the community from all the spoilers of their favourite tv series hovering around.
----------
+## A python script to save the community from all the spoilers of their favourite tv series hovering around.
+
 ___
 ## Input : 
 > The [script](https://github.com/dhruv-chauhan/no_spoilers/blob/master/no_spoilers.py) requires email address and list of favourite TV series for multiple users as input.
