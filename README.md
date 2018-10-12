@@ -31,23 +31,23 @@ ___
 
 3. A template, which is generated using [API](https://www.tvmaze.com/api) to fetch all required information about the TV Series, is sent in the email given Email Addresses as :
 
-  1. Before and after the script is run :
+  + Before and after the script is run :
   
   ![alt_text]( "Before Script Demo")
   
   ![alt_text]( "Inbox Demo")
   
-  2. Template :
+  + Template :
   Tv series name:
-    * Link to the Series' IMDB page.
+    - Link to the Series' IMDB page.
   Format for Status :
-    * Exact date is mentioned for next episode.
-    * Only year is mentioned for next season.
-    * All the seasons are finished and no further details are available.
+    - Exact date is mentioned for next episode.
+    - Only year is mentioned for next season.
+    - All the seasons are finished and no further details are available.
   
   ![alt_text]( "Template Demo")
   
-  3. For Shows with exact date mentioned for next episode, there appears a link, using which the user can schedule the episode airing to their Google Calendar (with exact airing date and time, considering time zones).
+  + For Shows with exact date mentioned for next episode, there appears a link, using which the user can schedule the episode airing to their Google Calendar (with exact airing date and time, considering time zones).
   
   ![alt_text]( "Calendar Demo")
 
