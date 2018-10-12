@@ -247,7 +247,7 @@ def main():
         <table id="bottom" cellpadding="20" cellspacing="0" width="600" align="center">
             <tr>
             <td align="center">
-                <p><a href="#">View on Github</a></p>
+                <p><a href="https://github.com/dhruv-chauhan/no_spoilers">View on Github</a></p>
             </td>
             </tr>
         </table><!-- top message -->
