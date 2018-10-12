@@ -24,6 +24,7 @@ make clean                                                  //deletes the instal
 ___
 # Demo :
 1. After setting up development environment, launch the script `./run.sh` to get a prompt asking for Email Address and a list of TV Series : 
+
 ![alt text]( "Input Demo")
 
 2. The given input is stored as MYSQLdb table :
@@ -31,7 +32,9 @@ ___
 3. A template, which is generated using [API](https://www.tvmaze.com/api) to fetch all required information about the TV Series, is sent in the email given Email Addresses as :
 
   1. Before and after the script is run :
+  
   ![alt_text]( "Before Script Demo")
+  
   ![alt_text]( "Inbox Demo")
   
   2. Template :
@@ -41,9 +44,11 @@ ___
     * Exact date is mentioned for next episode.
     * Only year is mentioned for next season.
     * All the seasons are finished and no further details are available.
+  
   ![alt_text]( "Template Demo")
   
   3. For Shows with exact date mentioned for next episode, there appears a link, using which the user can schedule the episode airing to their Google Calendar (with exact airing date and time, considering time zones).
+  
   ![alt_text]( "Calendar Demo")
 
 ____
@@ -70,6 +75,7 @@ This is because Google recommend turning access OFF for unrecognised apps, OR, i
 3. Sender's email address is set as :
 
 >ID : nospoilers.demo@gmail.com
+
 >PASS : N0sp0ilers
 
 It can be changed through the script variables.
