@@ -40,8 +40,10 @@ ___
   ![alt_text](https://raw.githubusercontent.com/dhruv-chauhan/no_spoilers/master/demo_images/inbox-demo.png "Inbox Demo")
   
   + Template :
+  
   Tv series name:
     - Link to the Series' IMDB page.
+  
   Format for Status :
     - Exact date is mentioned for next episode.
     - Only year is mentioned for next season.
